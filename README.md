@@ -13,7 +13,9 @@
 ## 1. AI → ML → Generative AI
 
 **AI:** Machines mimic intelligence (chatbots, fraud detection)
+
 **ML:** Learns from data (prediction models)
+
 **GenAI:** Creates new content (SQL, code, docs)
 
 ------------------------------------------------------------------------
