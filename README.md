@@ -469,6 +469,10 @@ Task → Agent → Skills → Plan → Solve → Tools
 
 -   Communication between agents
 
+##  Plan
+
+-   Three types of plan (sequential, hierarchical, and consensual)
+
 ------------------------------------------------------------------------
 
 # 👥 Multi-Agent Example
@@ -500,10 +504,12 @@ Task → Agent → Skills → Plan → Solve → Tools
 -   LangGraph
 -   AutoGen
 -   OpenAI Swarm
--   Smol Agents
+-   Smola Agents
 -   Manus (Meta)
 -   n8n
 -   Replit
+-   Copilot Studio
+-   Manus
 
 ------------------------------------------------------------------------
 
