@@ -21,52 +21,8 @@
 ## 2. Traditional AI vs Generative AI
 
 **Traditional AI:** Rule-based, fixed output
+
 **Generative AI:** Dynamic, context-aware, generates content
 
 ------------------------------------------------------------------------
 
-## 3. LLMs (Large Language Models)
-
--   Trained on large datasets
--   Used for SQL generation, documentation, optimization
-
-------------------------------------------------------------------------
-
-## 4. How LLMs Work
-
--   Predict next word/token
--   Based on input + context
-
-**Example:**
-
-    SELECT * FROM users WHERE → age > 30
-
-------------------------------------------------------------------------
-
-## 5. Tokens
-
--   Small units of text
--   Cost & performance depend on tokens
-
-------------------------------------------------------------------------
-
-## 6. Context Window
-
--   Memory of model
--   More context = better output
-
-------------------------------------------------------------------------
-
-## 7. Grounding
-
--   Providing schema/context
--   Improves accuracy
--   Reduces hallucination
-
-------------------------------------------------------------------------
-
-## Key Takeaways
-
--   Always validate AI output
--   Provide schema/context
--   Use clear prompts
