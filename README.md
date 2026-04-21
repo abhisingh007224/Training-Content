@@ -211,19 +211,6 @@ Trained for specific domains:
 - Image generation  
 - Canvas (editing text/images)  
 
----
-
-# 💎 Free vs Premium
-
-| Feature | Free | Premium |
-|--------|------|--------|
-| Deep Research | Limited | More |
-| Images | 5 | More |
-| Context Limit | ~2500 words | Higher |
-| Custom GPT | ❌ | ✅ |
-| Advanced Models | ❌ | ✅ |
-| Video Generation | ❌ | ✅ |
-| Agents | ❌ | ✅ |
 
 ---
 
@@ -231,6 +218,7 @@ Trained for specific domains:
 
 A good prompt includes:
 
+- Role
 - Question  
 - Language (Hindi, Kannada, etc.)  
 - Tone (simple, formal, harsh)  
