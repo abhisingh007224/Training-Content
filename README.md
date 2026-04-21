@@ -26,10 +26,6 @@
 
 ------------------------------------------------------------------------
 
-# 🎯 Generative AI for DBAs – Complete Notes
-
----
-
 # 🧠 What is Generative AI?
 
 Generative AI can create:
@@ -53,6 +49,7 @@ Generative AI can create:
 
 - Common Crawl
 - Website sitemap.xml files
+- GPT Bot used for crawling
 - Hugging Face datasets (FineWeb – 2023)
 
 ---
