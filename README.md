@@ -404,3 +404,176 @@ Pricing depends on multiple factors:
 - Use AI as assistant, not replacement  
 
 
+
+
+# 🤖 Agentic AI -- Detailed Notes
+
+------------------------------------------------------------------------
+
+# 🧠 What is Agentic AI?
+
+Agentic AI refers to systems where **agents autonomously perform tasks**
+with or without human intervention.
+
+------------------------------------------------------------------------
+
+# 👥 Multi-Agent Systems (MAS)
+
+-   Multiple agents working together = **Crew / Team**
+-   Each agent has:
+    -   Skills (e.g., Data Scientist, Developer)
+    -   Task responsibility
+    -   Ability to plan and execute
+
+------------------------------------------------------------------------
+
+# ⚙️ Agent Workflow
+
+## 🧩 Flow:
+
+Task → Agent → Skills → Plan → Solve → Tools
+
+------------------------------------------------------------------------
+
+# 🔄 Detailed Process
+
+1.  Agent receives a **problem/task**
+2.  Agent creates a **plan**
+3.  Human approves the plan (**Human-in-the-loop**)
+4.  Agent uses tools (APIs, databases, etc.)
+5.  Executes in a **sandbox environment**
+6.  If errors occur → **Reiterate & improve**
+
+------------------------------------------------------------------------
+
+# 🔗 Core Components of Agents
+
+## 🧠 Skills
+
+-   Expertise of the agent
+-   Example: Data Science, Web Development
+
+## 🛠️ Tools
+
+-   APIs, databases, external systems
+
+## 🧾 Memory
+
+-   Stores past interactions and context
+
+## 🔄 Delegation
+
+-   Transfer task from one agent to another
+
+## 🔗 Coordination
+
+-   Communication between agents
+
+------------------------------------------------------------------------
+
+# 👥 Multi-Agent Example
+
+-   Agent 1 → Data Scientist
+-   Agent 2 → Web Developer
+
+➡️ Together = **Crew**
+
+------------------------------------------------------------------------
+
+# 🔄 Delegation
+
+-   If one agent cannot perform task → assign to another agent
+
+------------------------------------------------------------------------
+
+# 🔗 Coordination
+
+-   Agents communicate with each other
+-   Share information to complete tasks
+
+------------------------------------------------------------------------
+
+# 🏗️ Platforms for Building Agents
+
+-   Agno (formerly Phidata)
+-   CrewAI
+-   LangGraph
+-   AutoGen
+-   OpenAI Swarm
+-   Smol Agents
+-   Manus (Meta)
+-   n8n
+-   Replit
+
+------------------------------------------------------------------------
+
+# 🧠 Agent Architecture
+
+## 🎯 Master Agent (Controller)
+
+-   Main AI system
+-   Assigns tasks
+-   Monitors performance
+-   Coordinates agents
+
+------------------------------------------------------------------------
+
+## 🤖 Slave Agents (Specialized Agents)
+
+-   Focused on specific tasks
+
+### Examples:
+
+-   Order tracking
+-   Refund processing
+-   Product information
+-   Technical support
+-   Account issues
+
+------------------------------------------------------------------------
+
+# ⚡ Types of AI Agents
+
+## 🔹 Reactive Agents
+
+-   Immediate response (no planning)
+-   No memory
+-   Rule-based
+
+### Example:
+
+-   IF error → restart service
+
+### Features:
+
+-   Fast
+-   Simple
+-   Scalable
+
+------------------------------------------------------------------------
+
+## 🔹 Deliberative Agents
+
+-   Goal-oriented
+-   Plan before acting
+-   Maintain internal state
+
+### Features:
+
+-   Reasoning
+-   Prediction
+-   Optimization
+-   Learning capability
+
+------------------------------------------------------------------------
+
+# 🎯 Key Takeaways
+
+-   Agentic AI = Autonomous task execution
+-   Multi-agent systems improve efficiency
+-   Delegation & coordination are critical
+-   Master agent controls system
+-   Reactive vs Deliberative agents serve different use cases
+
+------------------------------------------------------------------------
+
