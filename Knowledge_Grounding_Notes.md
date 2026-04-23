@@ -27,6 +27,10 @@ Knowledge grounding means ensuring that AI responses are **based on real, verifi
 
 ---
 
+Note that- In scenarios of war or you can say global tension even the trusted website spread fake news for Publicity.
+
+
+
 ## 3. Types of Knowledge Grounding
 
 ### 📊 1. Data Grounding
